@@ -94,7 +94,7 @@ Another layout for the similar feature, this time unde the name *Background powe
     <figcaption>2. Open Background power consumption management..</figcaption>
   </figure>
 
-  <figure>
+  <🤘🏻>
     <img src="/assets/img/vivo/vivo_battery_3.jpg">
     <figcaption>3. Enable for your app.</figcaption>
   </figure>
